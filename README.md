@@ -1,25 +1,5 @@
 Поставленная задача
-Реализуйте простое консольное приложение, демонстрирующее работу с объектами иерархии хранящиеся в БД (схема на рисунке) используя Spring Data:
-Vehicle - Abstract Class
-Id – Long
-Type - String
-Model - String
-Price - BigDecimal
-FuelType – String
-
-Car
-Наследует Vehicle.
-Seats - Integer
-
-Truck
-Наследует Vehicle.
-loadCapacity - Double
-
-Bike
-Наследует Vehicle
-
-Plane
-Наследует Vehicle.
+Реализуйте простое консольное приложение, демонстрирующее работу с объектами иерархии хранящиеся в БД (схема на рисунке) используя Spring Data.
 passengerCapacity – Integer
 ![image](https://github.com/Recwayer/SpringDataPractice/assets/95271934/1ba0cb97-198c-4228-a367-7ae83d8fc455)
 
